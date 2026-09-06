@@ -221,7 +221,7 @@ FAMILIA=Bebas Neue, Impact, Arial, sans-serif
 ## Estrutura
 
 ```
-holyrics-obs/
+holyrics-obs-label/
 ├── script.py        servidor, CSS e página (biblioteca padrão apenas)
 ├── .env.example     modelo de configuração, comentado
 ├── .env             sua configuração — fora do versionamento
