@@ -65,8 +65,9 @@ navegador do OBS  ──GET /            ──►  script.py  ──►  págin
 ## Uso
 
 ```bash
-git clone <url-do-seu-repositorio> holyrics-obs
-cd holyrics-obs
+git clone https://github.com/levsan13/holyrics-obs-label.git
+
+cd holyrics-obs-label
 
 cp .env.example .env      # ajuste o IP do Holyrics e o resto
 python3 script.py
